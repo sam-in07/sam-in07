@@ -1,4 +1,4 @@
-## Hi there 👋
+hello ! Its sam_in_Ironside profile 
 
 <!--
 **sam-in07/sam-in07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-in07&theme=cobalt)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sam-in07&theme=cobalt)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-in07&theme=cobalt&utcOffset=8)
