@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sam-in07&label=Profile%20views&color=brightgreen&style=flat" alt="sam-in07" />
+</p>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-in07&theme=cobalt)
